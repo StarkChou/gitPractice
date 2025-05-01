@@ -4,3 +4,4 @@ git has a mutable index called stage. -3
 git tracks changes of files. -4
 Creating a new branch is quick. -5
 new feature3. -6
+new feature4. -7
